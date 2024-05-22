@@ -1,0 +1,44 @@
+body {
+    background: rgb(96, 195, 245);
+}
+.container {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2 {
+   text-align: center;
+}
+
+.big-photo {
+    width: 250px;
+    height: auto;
+    margin: 0 auto;
+}
+.big-photo img {
+    width: 100%;
+    height: auto;
+}
+.cont {
+    width: 600px;
+    background: white;
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.Det{
+    font-size: 25px;
+    margin-right: 360px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.fam {
+    margin-right: 360px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 28px;
+    display: flex;
+    gap: 30px;
+}
